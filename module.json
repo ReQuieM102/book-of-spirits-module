@@ -2,8 +2,8 @@
   "id": "book-of-spirits-module",
   "title": "book of spirits module",
   "version": "1.0.0",
-  "manifest": "https://github.com/ReQuieM102/Book_Spirit_Module/releases/latest/download/module.json",
-  "download": "https://github.com/ReQuieM102/Book_Spirit_Module/releases/download/1.0.0/module.zip",
+  "manifest": "https://github.com/ReQuieM102/book-of-spirits-module/releases/latest/download/module.json",
+  "download": "https://github.com/ReQuieM102/book-of-spirits-module/releases/download/1.0.0/module.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
